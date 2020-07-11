@@ -1,4 +1,4 @@
-# Portfolio [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/JoeCare/)[![Generic badge](https://img.shields.io/badge/and-Python-red.svg)](https://GitHub.com/JoeCare/)
+# Portfolio [![ForTheBadge built-with-love](http://ForTheBadge.com/images/badges/built-with-love.svg)](https://GitHub.com/JoeCare/)[![forthebadge made-with-python](http://ForTheBadge.com/images/badges/made-with-python.svg)](https://www.python.org/)
 
 
 
